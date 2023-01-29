@@ -1,12 +1,9 @@
-
-<button href="https://frontend-mentor-product-preview-card-component-zqps-nl1x2e1fe.vercel.app/">Site Link</button>
-
-https://frontend-mentor-product-preview-card-component-zqps-nl1x2e1fe.vercel.app/
-
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
+
+https://frontend-mentor-product-preview-card-component-zqps-nl1x2e1fe.vercel.app/
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
